@@ -1,4 +1,4 @@
-# Awesome Document OCR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Last Updated](https://img.shields.io/github/last-commit/karvanitis/awesome-document-ocr)
+# Awesome Document OCR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Last Updated](https://img.shields.io/github/last-commit/k-arvanitis/awesome-document-ocr)
 
 > A curated list of modern OCR and document understanding systems — from classical baselines to VLM-powered pipelines, with a focus on RAG-ready structured output.
 
@@ -461,6 +461,6 @@ This repo occupies a specific niche: **VLM-native OCR for RAG engineers** — a 
 
 ---
 
-*Maintained by [Konstantinos Arvanitis](https://github.com/karvanitis) — AI Engineer focused on RAG pipelines and document intelligence systems.*
+*Maintained by [Konstantinos Arvanitis](https://github.com/k-arvanitis) — AI Engineer focused on RAG pipelines and document intelligence systems.*
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
