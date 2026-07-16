@@ -264,6 +264,21 @@ RAG System             ← vector store, retrieval, generation
 
 ---
 
+### paper2md
+
+| Field | Detail |
+|---|---|
+| **Link** | [paper2md.com](https://paper2md.com) |
+| **Type** | Web Service / PDF-to-Markdown |
+| **License** | SaaS (Free tier: 100 pages/month) |
+| **Output** | Markdown + extracted images (ZIP) |
+
+**Description:** Cloud-based converter purpose-built for academic and technical PDFs. Powered by Mistral OCR, it specialises in the elements that break most parsers: multi-line LaTeX equations, borderless research tables, and double-column reading order. Outputs Obsidian/KaTeX/MathJax-ready Markdown with images extracted to a relative `images/` path.
+
+**Strengths:** Zero setup, highest formula accuracy for arXiv-style papers (79 formulas tested, 0 rendering errors), normalises `\(...\)` → `$...$` and handles `\tag{}` correctly, side-by-side PDF/Markdown review UI, RAG-ready clean output.
+
+---
+
 ## 📊 Table Extraction
 
 > Tables are a major bottleneck in OCR pipelines. Standard text extraction destroys table structure. These tools preserve it.
