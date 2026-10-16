@@ -200,6 +200,20 @@ RAG System             ← vector store, retrieval, generation
 
 ## 📄 Document Parsing & Structuring
 
+### Doc2X
+
+| Field | Detail |
+|---|---|
+| **Link** | [doc2x.noedgeai.com](https://doc2x.noedgeai.com/) / [official MCP documentation](https://github.com/NoEdgeAI/doc2x-mcp) |
+| **Type** | Cloud Document Parser / OCR API |
+| **License** | Closed API; optional MCP/Skill source MIT |
+| **Output** | Markdown, LaTeX, DOCX, layout JSON |
+
+**Description:** Parses PDFs and images with formula/table recognition and exports editable documents or layout data. Requires cloud upload and an account/API key; web has limited recurring free parsing, paid upgrades and separately billed API usage.
+
+**Strengths:** Formula/table-aware parsing, documented async workflow, structured layout output, official stdio MCP integration.
+
+
 > These tools take raw OCR output (or native PDFs) and convert them into clean, structured formats suitable for downstream use in RAG or data pipelines.
 
 ---
