@@ -108,6 +108,21 @@ RAG System             ← vector store, retrieval, generation
 
 ---
 
+### Scanned.to
+
+| Field | Detail |
+|---|---|
+| **Link** | [scanned.to](https://scanned.to/) |
+| **Type** | VLM OCR / API |
+| **License** | Closed / API |
+| **Output** | Editable Word, searchable PDF |
+
+**Description:** Hosted AI OCR that reconstructs scanned PDFs and images into layout-preserving editable Word/PDF. Supports handwriting recognition, translation to 50+ languages, and API access.
+
+**Strengths:** Layout-preserving reconstruction (not text-only), handwriting, multilingual translation, Word/PDF export, API.
+
+---
+
 ### LightOnOCR-2-1B
 
 | Field | Detail |
