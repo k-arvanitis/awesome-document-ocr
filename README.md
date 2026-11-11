@@ -264,6 +264,21 @@ RAG System             ← vector store, retrieval, generation
 
 ---
 
+### Cogneris
+
+| Field | Detail |
+|---|---|
+| **Link** | [cogneris.ai](https://cogneris.ai) |
+| **Type** | Document Parser / Extraction API |
+| **License** | Closed / API |
+| **Output** | Schema-validated JSON |
+
+**Description:** Hosted document AI API that classifies documents, then extracts fields from PDFs, payslips, bank statements, invoices and contracts into schema-validated JSON. Exposes REST endpoints, webhooks and SDKs for Python, Node, Java and .NET.
+
+**Strengths:** Schema-constrained extraction, document classification, fraud and validation checks, EU hosting, 14-day free trial without a card.
+
+---
+
 ## 📊 Table Extraction
 
 > Tables are a major bottleneck in OCR pipelines. Standard text extraction destroys table structure. These tools preserve it.
