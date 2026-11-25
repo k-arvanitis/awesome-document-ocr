@@ -279,6 +279,21 @@ RAG System             ← vector store, retrieval, generation
 
 ---
 
+### JustMarkdown
+
+| Field | Detail |
+|---|---|
+| **Link** | [justmarkdown.com](https://justmarkdown.com/pdf-to-markdown) |
+| **Type** | Document Parser / Conversion Service |
+| **License** | Closed API with free browser tier |
+| **Output** | Markdown |
+
+**Description:** Converts PDF, Office, EPUB, HTML and URLs to Markdown. Text-layer PDFs and scanned pages run in the browser by default; complex scans use a hosted OCR path billed per page.
+
+**Strengths:** Zero-install browser path, on-device OCR for scanned pages, hosted structured OCR, MCP server, published 40-document benchmark.
+
+---
+
 ## 📊 Table Extraction
 
 > Tables are a major bottleneck in OCR pipelines. Standard text extraction destroys table structure. These tools preserve it.
